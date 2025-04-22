@@ -10,4 +10,4 @@ To run the projects in Netbeans
 5. Deploy and Run the project
 
 **Project CRUDServlets**\
-Simple Create Read Update and Save service that lets you see a list of employees in a company together with CRUTIAL day to day details like their email and country of residence. 
+Simple Create Read Update and Save service that lets you store a list of employees in a company together with CRUTIAL day to day details like their email and country of residence. 
