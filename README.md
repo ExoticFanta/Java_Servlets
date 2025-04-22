@@ -1,6 +1,7 @@
 # Java_Servlets
 
-In this section exist my Simple Java Servlet projects. They have no CSS built on to them and are just a white canvas set to test servlet ability. Each one of them is a Netbeans project\ 
+In this section exist my Simple Java Servlet projects. They have no CSS built on to them and are just a white canvas set to test servlet ability. Each one of them is a Netbeans project\
+
 To run the projects in Netbeans\
 1. Download the latest Glassfish server in the services tab
 2. Download MariaDB drivers 
